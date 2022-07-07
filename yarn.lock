@@ -1149,6 +1149,11 @@
   resolved "https://registry.yarnpkg.com/@canonical/latest-news/-/latest-news-1.2.0.tgz#8716c71d6d6b5d44a6aff3951053b4c26b2985f5"
   integrity sha512-c6KeUI5DSmUjP8W3L+6hvEAsYktWvQiHWqUXw0xcYcmW/8nFiT5o6HcwZmipaM3zDt0aFuDTBXHmc4rbaz6XGw==
 
+"@canonical/latest-news@1.4.0":
+  version "1.4.0"
+  resolved "https://registry.yarnpkg.com/@canonical/latest-news/-/latest-news-1.4.0.tgz#d49aeba44da374a78f92bfa3973925d48de981a2"
+  integrity sha512-NGE9wKdUZA//ypwXUF8Z8vVNOoBsCbQ5cQV94hYvEAuCIjZ8hnPhv7MrTyw8hehqpqFvVWgSmGGXmFRuyGUBow==
+
 "@cnakazawa/watch@^1.0.3":
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/@cnakazawa/watch/-/watch-1.0.4.tgz#f864ae85004d0fcab6f50be9141c4da368d1656a"
