@@ -7479,10 +7479,10 @@ url-polyfill@1.1.12:
   resolved "https://registry.yarnpkg.com/url-polyfill/-/url-polyfill-1.1.12.tgz#6cdaa17f6b022841b3aec0bf8dbd87ac0cd33331"
   integrity sha512-mYFmBHCapZjtcNHW0MDq9967t+z4Dmg5CJ0KqysK3+ZbyoNOWQHksGCTWwDhxGXllkWlOc10Xfko6v4a3ucM6A==
 
-url-search-params-polyfill@8.1.0:
-  version "8.1.0"
-  resolved "https://registry.yarnpkg.com/url-search-params-polyfill/-/url-search-params-polyfill-8.1.0.tgz#5c15b69687165bfd4f6c7d8a161d70d85385885b"
-  integrity sha512-MRG3vzXyG20BJ2fox50/9ZRoe+2h3RM7DIudVD2u/GY9MtayO1Dkrna76IUOak+uoUPVWbyR0pHCzxctP/eDYQ==
+url-search-params-polyfill@8.2.3:
+  version "8.2.3"
+  resolved "https://registry.yarnpkg.com/url-search-params-polyfill/-/url-search-params-polyfill-8.2.3.tgz#bc2fe7e9939fc1cce656bec2ecb3c34fc7e16a99"
+  integrity sha512-DTQqQ7tYuQlmCzAAPAE7ALvXZhqh6+WfCQ+kpbLyGMM/PHG90P95XtLFLw7XskcL+4x7TyyNDFxfGJrJXUk7jg==
 
 url@^0.11.0:
   version "0.11.0"
